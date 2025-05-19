@@ -1,0 +1,7 @@
+gradio
+openai
+dotenv
+speechrecognition
+pyttsx3
+pillow
+pytesseract
